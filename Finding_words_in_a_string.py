@@ -12,3 +12,5 @@ def findWord(word, str):
 findWord(word, content)
 
 ####################################################
+
+# [Output]: ['internet']
